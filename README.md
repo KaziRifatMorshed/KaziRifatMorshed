@@ -1,8 +1,7 @@
 ### Hi there 👋 I am still in development 
 
 
-**KaziRifatMorshed/KaziRifatMorshed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**KaziRifatMorshed/KaziRifatMorshed** is a ✨ _special_ ✨ repository because ..........
 
 - 🔭 I’m currently working on my hobby 
 - 🌱 I’m currently learning procrastination
