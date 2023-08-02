@@ -13,6 +13,6 @@
 - 👯 I’m looking to collaborate on sth useful
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about my favourite things
-- 📫 How to reach me: [Telegram](https://t.me/FiXiReULV)
+- 📫 How to reach me: [Telegram](https://t.me/FiXiReULV); [MyAnimeList](https://myanimelist.net/profile/KaziRifatJR); [Twitter/X](https://twitter.com/FiXi_ReULV)
 - 😄 Also Known as Kazi Vai
-- ⚡ Fun fact: nothing, meah !
+- ⚡ Fun fact: nothing, meah!
