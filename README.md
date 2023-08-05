@@ -8,16 +8,15 @@
 
 **KaziRifatMorshed/KaziRifatMorshed** is a ✨ _special_ ✨ repository because ..........
 
-- 👋 Hi, I’m @KaziRifatMorshed
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 🔭 I’m currently working on my hobby 
+- 👋 Hi, I’m @KaziRifatMorshed from Khulna, Bangladesh🇧🇩, a country of South Asia.
+- 👀 I’m interested in [Naruto](https://naruto.fandom.com/wiki/Narutopedia); [Jōgan](https://naruto.fandom.com/wiki/J%C5%8Dgan); ...
 - 🌱 I’m currently learning procrastination
+- 💞️ I’m looking to collaborate on ... (🤔)
+- 🔭 I’m currently working on avoiding backlog 😮‍💨
 - 👯 I’m looking to collaborate on sth useful
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about my favourite things
-- 📫 How to reach me: [Telegram](https://t.me/FiXiReULV); [MyAnimeList](https://myanimelist.net/profile/KaziRifatJR); [Twitter/X](https://twitter.com/FiXi_ReULV)
+- 🤔 I’m looking for help with ... (🤔)
+- 💬 Ask me about my favourite things (Don't need to ask, if u have enough time in your bucket, hit [me]())
+- 📫 How to reach me: [Telegram](https://t.me/FiXiReULV); [Twitter/X](https://twitter.com/FiXi_ReULV); [MyAnimeList](https://myanimelist.net/profile/KaziRifatJR); [Matrix](https://matrix.to/#/@kazirifatjr:matrix.org);  
 - 😄 Also Known as Kazi Vai
 - ⚡ Fun fact: nothing, meah!
+this was a short description of me, wanna more? Check out my webpage 😉 (NOTE, webpage is under construction)
