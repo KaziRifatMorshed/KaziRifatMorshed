@@ -4,4 +4,10 @@ This .md file is under construction and gets updated frequently ...
 # A  interview of Kazi Vai in another multiverse 
 
 
+
+ques: What you will do if you won a Macbook in a lottery?  
+ans: https://github.com/AsahiLinux > https://github.com/Lakr233/ActivateMac; hope you get it (IhateMACbtw) 😜
+
+
+
 [Last line note: incomplete\UnderConstruction]
