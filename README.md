@@ -18,5 +18,7 @@
 - 💬 Ask me about my favourite things (Don't need to ask, if u have enough time in your bucket, hit [me]())
 - 📫 How to reach me: [Telegram](https://t.me/FiXiReULV); [Twitter/X](https://twitter.com/FiXi_ReULV); [MyAnimeList](https://myanimelist.net/profile/KaziRifatJR); [Matrix](https://matrix.to/#/@kazirifatjr:matrix.org);  
 - 😄 Also Known as Kazi Vai
-- ⚡ Fun fact: nothing, meah!
-this was a short description of me, wanna more? Check out my webpage 😉 (NOTE, webpage is under construction)
+- ⚡ Favourite quotes: [go here](https://github.com/KaziRifatMorshed/quotes#kazirifatmorshed)
+    
+this was a short description of me, wanna more? Check out my webpage 😉  
+(NOTE, webpage is under construction)
