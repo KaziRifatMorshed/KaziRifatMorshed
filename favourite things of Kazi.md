@@ -5,7 +5,7 @@ This .md file is under construction and gets updated frequently ...
 
 
 
-ques: What you will do if you won a Macbook in a lottery?  
+ques: What you will do if you win a Macbook in a lottery?  
 ans: https://github.com/AsahiLinux > https://github.com/Lakr233/ActivateMac; hope you get it (IhateMACbtw) 😜
 
 
