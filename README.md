@@ -9,7 +9,7 @@
 **KaziRifatMorshed/KaziRifatMorshed** is a ✨ _special_ ✨ repository because ..........
 
 - 👋 Hi, I’m @KaziRifatMorshed from Khulna, Bangladesh🇧🇩, a country of South Asia.
-- 👀 I’m interested in [Naruto](https://naruto.fandom.com/wiki/Narutopedia); [Jōgan](https://naruto.fandom.com/wiki/J%C5%8Dgan); ...
+- 👀 I’m interested in [Naruto](https://naruto.fandom.com/wiki/Narutopedia); [Jōgan](https://naruto.fandom.com/wiki/J%C5%8Dgan); ... My fev quotes: [click here](https://github.com/KaziRifatMorshed/quotes#kazirifatmorshed)
 - 🌱 I’m currently learning procrastination
 - 💞️ I’m looking to collaborate on ... (🤔)
 - 🔭 I’m currently working on avoiding backlog 😮‍💨
