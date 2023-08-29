@@ -1,6 +1,6 @@
 ### Hi there 👋 I am still in development 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39F731&width=435&lines=Hi+there!+Its+Kazi+Rifat+Morshed+!!!;A+freshman+from+CSE+Discipline%2C+KU+.+;CSE++in+Khulna+University...;...+was+the+second+of+its+kind...;...in+Bangladesh+after+that+of+BUET.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39F731&width=435&lines=Hi+there!+Its+Kazi+Rifat+Morshed+!!!;A+freshman+from+CSE+Discipline%2C+KU+.+;CSE++of+Khulna+University...;...+is+the+second+of+its+kind...;...in+Bangladesh+after+that+of+BUET.)](https://git.io/typing-svg)
 
 <!-- HTML
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39F731&width=435&lines=Hi+there!+Its+Kazi+Rifat+Morshed+!!!;A+freshman+from+CSE+Discipline%2C+KU+.+;CSE++in+Khulna+University...;...+was+the+second+of+its+kind...;...in+Bangladesh+after+that+of+BUET." alt="Typing SVG" /></a>
