@@ -7,7 +7,7 @@
 -->
 
 
-- 👋 Hi, I’m @KaziRifatMorshed from Khulna, Bangladesh🇧🇩, a country of South Asia.
+- 👋 Hi, I’m Kazi Rifat Morshed (`/ˈkɑːziː  ˈriːfæt  ˈmɔːrʃɛd/` Pronunciation: `kah-zee  ree-faht  mor-shed`, কাজী রিফাত মোর্শেদ, كازي رفعت مرشد, カジ・リファット・モルシェド, Καζί Ριφάτ Μόρσεντ) from Khulna, Bangladesh🇧🇩, a country in South Asia.
 - 😄 Also Known as Kazi Vai
 - My [Website(https://kazirifatmorshed.github.io)](https://kazirifatmorshed.github.io) and [Blog posts](https://blogofkazirifatjr.blogspot.com)
 - 👀 I’m interested in [Naruto](https://naruto.fandom.com/wiki/Narutopedia); [Jōgan](https://naruto.fandom.com/wiki/J%C5%8Dgan); ... My fev quotes: [click here](https://github.com/SharafatKarim/quotes#kazirifatmorshed)
