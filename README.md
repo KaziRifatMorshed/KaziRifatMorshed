@@ -1,4 +1,6 @@
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> Hi there 👋 (this readme is still in development, the owner is too busy\lazy,) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -13,7 +15,7 @@
 
 - 👋 Hi, I’m Kazi Rifat Morshed 😄 (`/ˈkɑːziː  ˈriːfæt  ˈmɔːrʃɛd/` Pronunciation: `ka-zee  ree-fath  mor-shed`, কাজী রিফাত মোর্শেদ, كازي رفعت مرشد, カジ・リファット・モルシェド, Καζί Ριφάτ Μόρσεντ) from Khulna, Bangladesh🇧🇩, a country in South Asia.
 - My [Website(https://kazirifatmorshed.github.io)](https://kazirifatmorshed.github.io) and [Blog posts](https://blogofkazirifatjr.blogspot.com)
-- 👀 I’m interested in [Naruto](https://naruto.fandom.com/wiki/Narutopedia); [Jōgan](https://naruto.fandom.com/wiki/J%C5%8Dgan); ... My fev quotes: [click here](https://github.com/SharafatKarim/quotes#kazirifatmorshed)
+- 👀 I’m interested in ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black); ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white); [Naruto](https://naruto.fandom.com/wiki/Narutopedia); [Jōgan](https://naruto.fandom.com/wiki/J%C5%8Dgan); ... My fev quotes: [click here](https://github.com/SharafatKarim/quotes#kazirifatmorshed)
 - 🌱 I’m currently learning procrastination
 - 💞️ I’m looking to collaborate on ... (🤔)
 - 🔭 I’m currently working on avoiding backlog(retake) 😮‍💨
