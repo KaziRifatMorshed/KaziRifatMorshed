@@ -1,4 +1,8 @@
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋 (this readme is still in development, the owner is too busy\lazy,) 
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> Hi there 👋 (this readme is still in development, the owner is too busy\lazy,) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39F731&width=435&lines=Hi+there!+Its+Kazi+Rifat+Morshed+!!!;A+freshman+from+CSE+Discipline%2C+KU+.+;CSE++of+Khulna+University...;...+is+the+second+of+its+kind...;...in+Bangladesh+after+that+of+BUET.)](https://git.io/typing-svg)
 
@@ -7,7 +11,7 @@
 -->
 
 
-- 👋 Hi, I’m Kazi Rifat Morshed 😄 (`/ˈkɑːziː  ˈriːfæt  ˈmɔːrʃɛd/` Pronunciation: `kah-zee  ree-faht  mor-shed`, কাজী রিফাত মোর্শেদ, كازي رفعت مرشد, カジ・リファット・モルシェド, Καζί Ριφάτ Μόρσεντ) from Khulna, Bangladesh🇧🇩, a country in South Asia.
+- 👋 Hi, I’m Kazi Rifat Morshed 😄 (`/ˈkɑːziː  ˈriːfæt  ˈmɔːrʃɛd/` Pronunciation: `ka-zee  ree-fath  mor-shed`, কাজী রিফাত মোর্শেদ, كازي رفعت مرشد, カジ・リファット・モルシェド, Καζί Ριφάτ Μόρσεντ) from Khulna, Bangladesh🇧🇩, a country in South Asia.
 - My [Website(https://kazirifatmorshed.github.io)](https://kazirifatmorshed.github.io) and [Blog posts](https://blogofkazirifatjr.blogspot.com)
 - 👀 I’m interested in [Naruto](https://naruto.fandom.com/wiki/Narutopedia); [Jōgan](https://naruto.fandom.com/wiki/J%C5%8Dgan); ... My fev quotes: [click here](https://github.com/SharafatKarim/quotes#kazirifatmorshed)
 - 🌱 I’m currently learning procrastination
@@ -16,7 +20,8 @@
 - 👯 I’m looking to collaborate on something useful
 - 🤔 I’m looking for help with ... (🤔)
 - 💬 Ask me about my favourite things (Don't need to ask, if u have enough time in your bucket, hit [me]())
-- 📫 How to reach me: [Telegram](https://t.me/FiXiReULV); [Twitter/X](https://twitter.com/FiXi_ReULV); [MyAnimeList](https://myanimelist.net/profile/KaziRifatJR); [Matrix](https://matrix.to/#/@kazirifatjr:matrix.org);  
+- 📫 How to reach me:  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+](https://t.me/FiXiReULV) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FiXi_ReULV) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi-rifat-morshed/)  
 - ⚡ Favourite quotes: [go here](https://github.com/KaziRifatMorshed/quotes#kazirifatmorshed)
     
 this was a short description of me, wanna more? Check out my webpage 😉  
