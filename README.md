@@ -28,6 +28,14 @@
 - 📫 How to reach me:  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=style=flat-square&logo=telegram&logoColor=white)
 ](https://t.me/FiXiReULV) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/FiXi_ReULV) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi-rifat-morshed/)  
 - ⚡ Favourite quotes: [go here](https://github.com/KaziRifatMorshed/quotes#kazirifatmorshed)
+
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=KaziRifatMorshed&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaziRifatMorshed&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
     
 this was a short description of me, wanna more? Check out my webpage 😉  
 (NOTE, This page is STILL under construction (Don'tBlameMyLaziness))
