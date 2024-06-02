@@ -5,6 +5,9 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
+<!--
+ [![My Skills](https://skillicons.dev/icons?i=c,java,py,obsidian,linux,arch,latex,html,git,github,gitlab,bash,&theme=light)](https://skillicons.dev)
+-->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39F731&width=435&lines=Hi+there!+Its+Kazi+Rifat+Morshed+!!!;A+freshman+from+CSE+Discipline%2C+KU+.+;CSE++of+Khulna+University...;...+is+the+second+of+its+kind...;...in+Bangladesh+after+that+of+BUET.)](https://git.io/typing-svg)
 
@@ -25,6 +28,14 @@
 - 📫 How to reach me:  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=style=flat-square&logo=telegram&logoColor=white)
 ](https://t.me/FiXiReULV) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/FiXi_ReULV) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi-rifat-morshed/)  
 - ⚡ Favourite quotes: [go here](https://github.com/KaziRifatMorshed/quotes#kazirifatmorshed)
+
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=KaziRifatMorshed&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaziRifatMorshed&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
     
 this was a short description of me, wanna more? Check out my webpage 😉  
 (NOTE, This page is STILL under construction (Don'tBlameMyLaziness))
