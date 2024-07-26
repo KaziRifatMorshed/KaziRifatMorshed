@@ -17,7 +17,7 @@
 -->
 
 
-- 👋 Hi, I’m Kazi Rifat Morshed 😄 (`/ˈkɑːziː  ˈriːfæt  ˈmɔːrʃɛd/` Pronunciation: `ka-zee  ree-fath  mor-shed`, কাজী রিফাত মোর্শেদ, كازي رفعت مرشد, カジ・リファット・モルシェド, Καζί Ριφάτ Μόρσεντ) from Khulna, Bangladesh🇧🇩, a country in South Asia.
+- 👋 Hi, I’m Kazi Rifat Morshed 😄 (/ˈkɑːziː  ˈriːfæt  ˈmɔːrʃɛd/ Pronunciation: "ka-zee  ree-fath  mor-shed", কাজী রিফাত মোর্শেদ, كازي رفعت مرشد, カジ・リファット・モルシェド, Καζί Ριφάτ Μόρσεντ) from Khulna, Bangladesh🇧🇩, a country in South Asia.
 - My [Website (https://kazirifatmorshed.github.io)](https://kazirifatmorshed.github.io) and [Blog posts](https://blogofkazirifatjr.blogspot.com)
 <!--- 👀 I’m interested in ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black); ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=style=flat-square&logo=arch-linux&logoColor=white); [Naruto](https://naruto.fandom.com/wiki/Narutopedia); [Jōgan](https://naruto.fandom.com/wiki/J%C5%8Dgan); ... My fev quotes: [click here](https://github.com/SharafatKarim/quotes#kazirifatmorshed) -->
 - 🌱 I’m currently learning procrastination
