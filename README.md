@@ -38,5 +38,3 @@
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaziRifatMorshed&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 <!--/details-->
     
-this was a short description of me, wanna more? Check out my [Website](https://kazirifatmorshed.github.io) 😉  
-(NOTE, This page is STILL under construction (Don'tBlameMyLaziness))
