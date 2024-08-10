@@ -25,7 +25,6 @@
 - 🔭 I’m currently working on avoiding backlog(retake) 😮‍💨
 - 👯 I’m looking to collaborate on something useful
 - 🤔 I’m looking for help with ... (🤔)
-- 💬 Ask me about my favourite things (Don't need to ask, if u have enough time in your bucket, hit [me]())
 - 📫 How to reach me:  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=style=flat-square&logo=telegram&logoColor=white)
 ](https://t.me/FiXiReULV) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/FiXi_ReULV) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi-rifat-morshed/)  
 - ⚡ Favourite quotes: [go here](https://github.com/KaziRifatMorshed/quotes#kazirifatmorshed)
