@@ -1,4 +1,4 @@
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> Hi there 👋  
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> Hi there 👋</h1>
 <!--
 ![C](https://img.shields.io/badge/C-00599C?style=style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=style=flat-squarelogo=openjdk&logoColor=white)
@@ -7,11 +7,10 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 -->
 
- [![My Skills](https://skillicons.dev/icons?i=c,java,py,obsidian,linux,arch,latex,html,git,github,gitlab,bash,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,obsidian,linux,arch,latex,html,git,github,gitlab,bash,&theme=light)](https://skillicons.dev)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39F731&width=435&lines=Hi+there!+Its+Kazi+Rifat+Morshed+!!!;A+freshman+from+CSE+Discipline%2C+KU+.+;CSE++of+Khulna+University...;...+is+the+second+of+its+kind...;...in+Bangladesh+after+that+of+BUET.)](https://git.io/typing-svg)
-
 
 ```rust
 #[allow(dead_code)]
