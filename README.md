@@ -47,7 +47,7 @@ fn main() {
         blog: Website {
             url: String::from("https://blogofkazirifatjr.blogspot.com"),
         },
-        interested_in: ("ArchLinux", "Jōgan"),
+        interested_in: ("ArchLinux", "Jōgan", ...),
         learning: String::from("procrastinating"),
         collaborate: String::from("doing something useful (🤔)"),
         working: String::from("avoiding backlog(retake)😮‍💨"),
