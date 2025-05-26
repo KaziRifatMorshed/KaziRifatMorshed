@@ -7,7 +7,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,markdown,obsidian,linux,arch,latex,html,css,git,github,gitlab,bash,rust&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,markdown,obsidian,linux,arch,latex,html,css,git,github,gitlab,bash,php,asm&theme=light)](https://skillicons.dev)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39F731&width=435&lines=Hi+there!+Its+Kazi+Rifat+Morshed+!!!;A+freshman+from+CSE+Discipline%2C+KU+.+;CSE++of+Khulna+University...;...+is+the+second+of+its+kind...;...in+Bangladesh+after+that+of+BUET.)](https://git.io/typing-svg)
