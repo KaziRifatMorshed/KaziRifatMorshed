@@ -82,6 +82,9 @@ fn main() {
 
 
 <!--details-->
+  
+[Faaaaahhhhhhhh!!!!!!!!!](https://profile-summary-for-github.com/user/KaziRifatMorshed)
+  
   <summary>Github Stats ⚡</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=KaziRifatMorshed&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
